@@ -1,0 +1,38 @@
+pip uninstall modeule name
+pip : package manger 
+use to manage the modeule 
+
+arrary
+numpy : create the arrary on the python 
+continous memory allocation
+homogenous 
+collection of items
+python list are alternative of array
+coustimzed version of arrary 
+
+drawback of list :
+1.slowed 
+block of memory requested
+continous memory allocation
+python list are dynamic
+refrestial arrary concept 
+gernal purpose 
+
+type of arrary : 
+static : size fixed ,memory losses 
+dynamic : size variable it can be change,data type is fixed,
+sifting opreation,bulk of arrary,memory watage is more,faster than static 
+  
+refreance aarary :data type ,multiple type data items stores(int,float,bool,char)
+space proirty 
+memory stores 
+stores memory addres in another arrary
+memory watage 
+another arrary created the arrary 
+doble memory wate
+sapce complexity 
+time complexity 
+computation incresed
+
+numpy : to create the arrary 
+unsized integewer 
